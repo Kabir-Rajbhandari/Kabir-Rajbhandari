@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=KABIR%20RAJBHANDARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Development&descAlignY=58&descSize=17&color=0:312e81,50:4c1d95,100:6d28d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=KABIR%20RAJBHANDARI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=17&color=0:312e81,50:4c1d95,100:6d28d9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Full+Stack+Developer+in+Progress;QA+Automation+%7C+API+Testing+%7C+CI%2FCD;AI%2FML+%7C+Data+%7C+Product+Engineering;Building+Reliable+Software+with+Engineering+Discipline" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+in+Progress;QA+Automation+%7C+API+Testing+%7C+CI%2FCD;AI%2FML+%7C+Data+%7C+Product+Engineering;Building+Reliable+Software+with+Engineering+Discipline" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -387,25 +387,17 @@ Networking and infrastructure concepts supporting broader software engineering k
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Kabir-Rajbhandari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"
-  alt="GitHub Statistics"
-  height="180"
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabir-Rajbhandari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&border_color=312E81"/>
 
-<img
-  src="https://streak-stats.demolab.com?user=Kabir-Rajbhandari&theme=transparent&hide_border=true"
-  alt="GitHub Streak Statistics"
-  height="180"
-/>
+<img height="180" src="https://streak-stats.demolab.com?user=Kabir-Rajbhandari&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
-<br/><br/>
+</div>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir-Rajbhandari&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-  alt="Top Programming Languages"
-  height="180"
-/>
+<br/>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir-Rajbhandari&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=312E81"/>
 
 </div>
 
@@ -415,10 +407,7 @@ Networking and infrastructure concepts supporting broader software engineering k
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Kabir-Rajbhandari&theme=onestar&no-frame=true&no-bg=true&column=7"
-  alt="GitHub Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kabir-Rajbhandari&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -436,26 +425,12 @@ Networking and infrastructure concepts supporting broader software engineering k
 
 ## Contribution Snake
 
-## Contribution Snake
-
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Kabir-Rajbhandari/Kabir-Rajbhandari/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Kabir-Rajbhandari/Kabir-Rajbhandari/gh-pages/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Kabir-Rajbhandari/Kabir-Rajbhandari/gh-pages/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/Kabir-Rajbhandari/Kabir-Rajbhandari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
+
 ---
 
 ## Current Focus
