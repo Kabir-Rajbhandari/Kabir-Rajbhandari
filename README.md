@@ -91,7 +91,7 @@ My current technical direction combines:
 <p>
 <img src="https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=45BA4B"/>
 <img src="https://img.shields.io/badge/JMeter-2E2E2E?style=for-the-badge&logo=apachejmeter&logoColor=D22128"/>
-<img src="https://img.shields.io/badge/Newman-2E2E2E?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Postman-2E2E2E?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 <img src="https://img.shields.io/badge/REST%20API-2E2E2E?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 </p>
 
