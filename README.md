@@ -126,22 +126,9 @@ Networking and infrastructure concepts supporting broader software engineering k
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabir-Rajbhandari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&border_color=312E81"/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=Kabir-Rajbhandari&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
 </div>
 
 <br/>
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kabir-Rajbhandari&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
 
 ## Contribution Activity
 
