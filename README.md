@@ -427,7 +427,7 @@ Networking and infrastructure concepts supporting broader software engineering k
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kabir-Rajbhandari/Kabir-Rajbhandari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Kabir-Rajbhandari/Kabir-Rajbhandari/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
