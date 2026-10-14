@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kabir-Rajbhandari&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/Kabir-Rajbhandari?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
 <img src="https://img.shields.io/github/stars/Kabir-Rajbhandari?label=STARS&style=flat-square&color=312E81"/>
 
@@ -129,14 +128,6 @@ Networking and infrastructure concepts supporting broader software engineering k
 </div>
 
 <br/>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabir-Rajbhandari&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=KABIR%20RAJBHANDARI%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"/>
-
-</div>
 
 ---
 
